@@ -1,27 +1,33 @@
-[Hbd putri.html](https://github.com/user-attachments/files/24084790/Hbd.putri.html)
 <!DOCTYPE html>
 <html lang="en">
 
-<head>[Uploading main.css…]()
-
+<head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <link rel="shortcut icon" type="image/png" href="img/favicon.png" />
   <title>Happy Birthday!!! :)</title>
+
   <!-- Google Font -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap" rel="stylesheet">
+
   <!-- My Style -->
   <link rel="stylesheet" href="./style/main.css" />
+
+  <!-- FIX: Hilangkan anchor-js text pink -->
+  <style>
+    .anchorjs-link {
+      display: none !important;
+    }
+  </style>
 </head>
 
 <body>
 
     <audio class="song" loop autoplay>
-        <source src="./music/hbd.mpeg">
-        </source>
+        <source src="./music/hbd.mpeg"></source>
         Your browser isn't invited for super fun audio time.
     </audio>
 
@@ -41,7 +47,7 @@
         <div class="four">
             <div class="text-box">
                 <p class="hbd-chatbox">
-                Happy birthday to youu!! Ciee udahh naik aja nihh wkwkwwk akhirnya ultah juga kamu ya nak yaa gabanyak si yg pe tak sampaikan, aku slalu berharap apapun kesulitan sing mok adepi bisa terlewatkan lancar kerjaanmu juga , intie im proud of u bocil krembangann nggondokann (semoga ngga nggondokan neh).
+                    Happy birthday to youu!! Ciee udahh naik aja nihh wkwkwwk akhirnya ultah juga kamu ya nak yaa gabanyak si yg pe tak sampaikan, aku slalu berharap apapun kesulitan sing mok adepi bisa terlewatkan lancar kerjaanmu juga , intie im proud of u bocil krembangann nggondokann (semoga ngga nggondokan neh).
                 </p>
                 <p class="fake-btn">Send</p>
             </div>
@@ -52,8 +58,7 @@
             <p class="idea-2">Kuliahmu haruss lebih semangatt.</p>
             <p class="idea-3">
                 Gaolee insecuree, awamu iku ayu pinter lucu<br>
-                <strong>LENGKAPPP</strong>
-                .
+                <strong>LENGKAPPP</strong>.
             </p>
             <p class="idea-4">Jadi,</p>
             <p class="idea-5">
@@ -67,11 +72,13 @@
         </div>
 
         <div class="six">
+            <!-- FOTO SUDAH DIGANTI -->
             <img src="./img/putri.jpg.jpeg" alt="profile" class="profile-picture" id="imagePath"/>
             <img src="img/hat.svg" alt="hat" class="hat" />
+            
             <div class="wish">
                 <h3 class="wish-hbd">Happy Birthday!</h3>
-                <h5 id="wishText">Thanks for being my partner,im so grateful! ;)</h5>
+                <h5 id="wishText">Thanks for being my partner, im so grateful! ;)</h5>
             </div>
         </div>
 
@@ -114,33 +121,15 @@
         </div>
 
         <div class="eight">
-            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="20" cy="20" r="20" />
-            </svg>
-            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="20" cy="20" r="20" />
-            </svg>
-            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="20" cy="20" r="20" />
-            </svg>
-            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="20" cy="20" r="20" />
-            </svg>
-            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="20" cy="20" r="20" />
-            </svg>
-            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="20" cy="20" r="20" />
-            </svg>
-            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="20" cy="20" r="20" />
-            </svg>
-            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="20" cy="20" r="20" />
-            </svg>
-            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="20" cy="20" r="20" />
-            </svg>
+            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><circle cx="20" cy="20" r="20" /></svg>
+            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><circle cx="20" cy="20" r="20" /></svg>
+            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><circle cx="20" cy="20" r="20" /></svg>
+            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><circle cx="20" cy="20" r="20" /></svg>
+            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><circle cx="20" cy="20" r="20" /></svg>
+            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><circle cx="20" cy="20" r="20" /></svg>
+            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><circle cx="20" cy="20" r="20" /></svg>
+            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><circle cx="20" cy="20" r="20" /></svg>
+            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><circle cx="20" cy="20" r="20" /></svg>
         </div>
 
         <div class="nine">
@@ -150,11 +139,13 @@
         </div>
     </div>
 
-</body>
     <!-- Greensock -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"></script>
+
     <!-- Sweetalert -->
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
     <script type="application/javascript" src="./script/main.js"></script>
 
+</body>
 </html>
