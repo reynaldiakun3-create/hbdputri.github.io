@@ -2,7 +2,16 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<head>[Uploading main.css…]()
+![putri jpg](https://github.com/user-attachments/assets/1d523012-7dc4-4863-ad62-90a8a5876deb)
+![irene](https://github.com/user-attachments/assets/cb8956f0-9601-49c2-bb7d-225c6e26b3d6)
+![hat](https://github.com/user-attachments/assets/0f6eeec3-cd63-45bd-ac69-7eae9fd37e25)
+<img width="200" height="200" alt="favicon" src="https://github.com/user-attachments/assets/38c03410-251e-44d9-a08a-d5dd2b259e37" />
+![ballon3](https://github.com/user-attachments/assets/e7194d0e-ba57-437d-b36d-7a3644498253)
+![ballon2](https://github.com/user-attachments/assets/f2e67e97-cd78-469c-9282-f10fccb32b45)
+![ballon1](https://github.com/user-attachments/assets/5d6f4269-0f07-4852-942b-4ad14c1e0f2b)
+![putri jpg](https://github.com/user-attachments/assets/8abe76a9-5e8c-44c7-bf4b-6cccc097c031)
+
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
